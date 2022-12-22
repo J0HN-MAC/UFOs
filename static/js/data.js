@@ -37,7 +37,6 @@ var data = [
   },
   {
     datetime: "1/1/2010",
-    city: "fresno",
     state: "ca",
     country: "us",
     shape: "light",
@@ -48,6 +47,7 @@ var data = [
     datetime: "1/1/2010",
     city: "grants pass",
     state: "or",
+    city: "fresno",
     country: "us",
     shape: "triangle",
     durationMinutes: "a few mintues",
@@ -825,7 +825,7 @@ var data = [
     country: "us",
     shape: "fireball",
     durationMinutes: "6 sec",
-    comments: "huge bright orange sphere appeared and dissapeared"
+    comments: "huge bright orange sphere appeared and dissapeared",
     city: "pratt",
   },
   {
